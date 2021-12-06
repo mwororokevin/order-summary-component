@@ -13,7 +13,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](./design/desktopDesign.png)
+![](./design/desktop-design.jpg)
 
 ### Links
 
